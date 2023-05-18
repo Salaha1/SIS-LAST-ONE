@@ -1,0 +1,4 @@
+﻿  Student Information System.cpp
+C:\Users\Salah\Desktop\Student Information System\md5.cpp(114,37): warning C4267: 'argument': conversion from 'size_t' to 'MD5::size_type', possible loss of data
+C:\Users\Salah\Desktop\Student Information System\Student Information System.cpp(105,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Student Information System.vcxproj -> C:\Users\Salah\Desktop\Student Information System\x64\Debug\Student Information System.exe
